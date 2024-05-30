@@ -1,0 +1,16 @@
+
+
+header {
+  display: flex;
+  justify-content: center; /* Centraliza horizontalmente */
+  align-items: center; /* Centraliza verticalmente */
+  padding: 20px;
+  background-color: white;
+}
+  
+  .logo {
+    width: 200px; /* Defina a largura desejada */
+    height: auto; /* Mantém a proporção original da imagem */
+    margin-right: 10px;
+
+  }
